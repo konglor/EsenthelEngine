@@ -1,0 +1,1 @@
++ Add __thiscall support for State struct
